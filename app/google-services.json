@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522535348950",
+    "project_id": "fireb-v1",
+    "storage_bucket": "fireb-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522535348950:android:370f7dab62eab942e6f777",
+        "android_client_info": {
+          "package_name": "com.example.fireb_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsuK0ZM0sn_EuEZLtVSU2gVlKfMS9XMLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
